@@ -1,0 +1,4 @@
+I have entered into Nano editor
+hello world My name is Arun
+I have entered into Nano editor -- this line I copied and pasted
+
